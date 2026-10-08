@@ -1,0 +1,842 @@
+client_id,issue,severity,detail
+C00011,missing_mandatory,Critical,address
+C00016,missing_mandatory,Critical,full_name
+C00021,missing_mandatory,Critical,id_number
+C00031,missing_mandatory,Critical,country
+C00128,missing_mandatory,Critical,full_name
+C00195,missing_mandatory,Critical,address
+C00215,missing_mandatory,Critical,dob
+C00236,missing_mandatory,Critical,dob
+C00242,missing_mandatory,Critical,full_name
+C00247,missing_mandatory,Critical,full_name
+C00266,missing_mandatory,Critical,address
+C00325,missing_mandatory,Critical,dob
+C00370,missing_mandatory,Critical,address
+C00387,missing_mandatory,Critical,full_name
+C00402,missing_mandatory,Critical,full_name
+C00412,missing_mandatory,Critical,country
+C00438,missing_mandatory,Critical,id_number
+C00495,missing_mandatory,Critical,address
+C00504,missing_mandatory,Critical,full_name
+C00516,missing_mandatory,Critical,dob
+C00527,missing_mandatory,Critical,address
+C00550,missing_mandatory,Critical,full_name
+C00605,missing_mandatory,Critical,address
+C00683,missing_mandatory,Critical,country
+C00719,missing_mandatory,Critical,full_name
+C00725,missing_mandatory,Critical,dob
+C00779,missing_mandatory,Critical,country
+C00785,missing_mandatory,Critical,dob
+C00793,missing_mandatory,Critical,address
+C00847,missing_mandatory,Critical,full_name
+C00854,missing_mandatory,Critical,dob
+C00856,missing_mandatory,Critical,full_name
+C00893,missing_mandatory,Critical,full_name
+C00905,missing_mandatory,Critical,full_name
+C00918,missing_mandatory,Critical,country
+C00920,missing_mandatory,Critical,country
+C00932,missing_mandatory,Critical,id_number
+C00949,missing_mandatory,Critical,id_number
+C00957,missing_mandatory,Critical,address
+C01000,missing_mandatory,Critical,full_name
+C01024,missing_mandatory,Critical,address
+C01058,missing_mandatory,Critical,country
+C01090,missing_mandatory,Critical,country
+C01091,missing_mandatory,Critical,address
+C01103,missing_mandatory,Critical,address
+C01112,missing_mandatory,Critical,address
+C01146,missing_mandatory,Critical,address
+C01152,missing_mandatory,Critical,country
+C01191,missing_mandatory,Critical,id_number
+C01200,missing_mandatory,Critical,full_name
+C01233,missing_mandatory,Critical,address
+C01240,missing_mandatory,Critical,address
+C01245,missing_mandatory,Critical,dob
+C01262,missing_mandatory,Critical,dob
+C01281,missing_mandatory,Critical,id_number
+C01292,missing_mandatory,Critical,dob
+C01297,missing_mandatory,Critical,address
+C01318,missing_mandatory,Critical,full_name
+C01355,missing_mandatory,Critical,id_number
+C01361,missing_mandatory,Critical,id_number
+C01388,missing_mandatory,Critical,full_name
+C01408,missing_mandatory,Critical,country
+C01437,missing_mandatory,Critical,dob
+C01492,missing_mandatory,Critical,dob
+C01510,missing_mandatory,Critical,id_number
+C01552,missing_mandatory,Critical,country
+C01573,missing_mandatory,Critical,dob
+C01602,missing_mandatory,Critical,full_name
+C01636,missing_mandatory,Critical,id_number
+C01638,missing_mandatory,Critical,dob
+C01654,missing_mandatory,Critical,address
+C01677,missing_mandatory,Critical,dob
+C01792,missing_mandatory,Critical,country
+C01835,missing_mandatory,Critical,id_number
+C01863,missing_mandatory,Critical,dob
+C01888,missing_mandatory,Critical,id_number
+C01945,missing_mandatory,Critical,full_name
+C01949,missing_mandatory,Critical,country
+C01983,missing_mandatory,Critical,full_name
+C01989,missing_mandatory,Critical,address
+C02013,missing_mandatory,Critical,full_name
+C02036,missing_mandatory,Critical,address
+C02039,missing_mandatory,Critical,dob
+C02050,missing_mandatory,Critical,id_number
+C02082,missing_mandatory,Critical,address
+C02188,missing_mandatory,Critical,full_name
+C02189,missing_mandatory,Critical,country
+C02192,missing_mandatory,Critical,country
+C02212,missing_mandatory,Critical,full_name
+C02253,missing_mandatory,Critical,address
+C02307,missing_mandatory,Critical,full_name
+C02376,missing_mandatory,Critical,address
+C02389,missing_mandatory,Critical,id_number
+C02413,missing_mandatory,Critical,dob
+C02422,missing_mandatory,Critical,country
+C02485,missing_mandatory,Critical,id_number
+C02487,missing_mandatory,Critical,full_name
+C02522,missing_mandatory,Critical,country
+C02538,missing_mandatory,Critical,full_name
+C02553,missing_mandatory,Critical,id_number
+C02561,missing_mandatory,Critical,dob
+C02566,missing_mandatory,Critical,full_name
+C02615,missing_mandatory,Critical,full_name
+C02622,missing_mandatory,Critical,dob
+C02662,missing_mandatory,Critical,address
+C02694,missing_mandatory,Critical,full_name
+C02695,missing_mandatory,Critical,full_name
+C02777,missing_mandatory,Critical,full_name
+C02864,missing_mandatory,Critical,address
+C02878,missing_mandatory,Critical,full_name
+C02898,missing_mandatory,Critical,address
+C02934,missing_mandatory,Critical,country
+C02938,missing_mandatory,Critical,dob
+C02940,missing_mandatory,Critical,id_number
+C02983,missing_mandatory,Critical,dob
+C03003,missing_mandatory,Critical,address
+C03033,missing_mandatory,Critical,address
+C03042,missing_mandatory,Critical,full_name
+C03054,missing_mandatory,Critical,id_number
+C03090,missing_mandatory,Critical,country
+C03130,missing_mandatory,Critical,country
+C03220,missing_mandatory,Critical,id_number
+C03232,missing_mandatory,Critical,address
+C03235,missing_mandatory,Critical,id_number
+C03296,missing_mandatory,Critical,full_name
+C03318,missing_mandatory,Critical,dob
+C03360,missing_mandatory,Critical,country
+C03407,missing_mandatory,Critical,dob
+C03427,missing_mandatory,Critical,full_name
+C03448,missing_mandatory,Critical,address
+C03472,missing_mandatory,Critical,full_name
+C03477,missing_mandatory,Critical,id_number
+C03548,missing_mandatory,Critical,country
+C03620,missing_mandatory,Critical,address
+C03627,missing_mandatory,Critical,full_name
+C03630,missing_mandatory,Critical,country
+C03658,missing_mandatory,Critical,full_name
+C03672,missing_mandatory,Critical,address
+C03680,missing_mandatory,Critical,full_name
+C03688,missing_mandatory,Critical,id_number
+C03691,missing_mandatory,Critical,dob
+C03720,missing_mandatory,Critical,dob
+C03726,missing_mandatory,Critical,country
+C03733,missing_mandatory,Critical,full_name
+C03741,missing_mandatory,Critical,address
+C03766,missing_mandatory,Critical,id_number
+C03798,missing_mandatory,Critical,full_name
+C03813,missing_mandatory,Critical,full_name
+C03821,missing_mandatory,Critical,id_number
+C03824,missing_mandatory,Critical,full_name
+C03853,missing_mandatory,Critical,id_number
+C03904,missing_mandatory,Critical,id_number
+C03992,missing_mandatory,Critical,address
+C03997,missing_mandatory,Critical,id_number
+C04021,missing_mandatory,Critical,full_name
+C04030,missing_mandatory,Critical,address
+C04061,missing_mandatory,Critical,country
+C04098,missing_mandatory,Critical,id_number
+C04121,missing_mandatory,Critical,dob
+C04122,missing_mandatory,Critical,full_name
+C04134,missing_mandatory,Critical,dob
+C04143,missing_mandatory,Critical,country
+C04159,missing_mandatory,Critical,full_name
+C04169,missing_mandatory,Critical,id_number
+C04177,missing_mandatory,Critical,dob
+C04201,missing_mandatory,Critical,address
+C04287,missing_mandatory,Critical,full_name
+C04330,missing_mandatory,Critical,id_number
+C04333,missing_mandatory,Critical,dob
+C04355,missing_mandatory,Critical,full_name
+C04369,missing_mandatory,Critical,address
+C04383,missing_mandatory,Critical,id_number
+C04384,missing_mandatory,Critical,address
+C04400,missing_mandatory,Critical,country
+C04407,missing_mandatory,Critical,id_number
+C04431,missing_mandatory,Critical,address
+C04439,missing_mandatory,Critical,country
+C04458,missing_mandatory,Critical,dob
+C04463,missing_mandatory,Critical,dob
+C04492,missing_mandatory,Critical,id_number
+C04534,missing_mandatory,Critical,full_name
+C04584,missing_mandatory,Critical,country
+C04585,missing_mandatory,Critical,full_name
+C04593,missing_mandatory,Critical,id_number
+C04727,missing_mandatory,Critical,full_name
+C04742,missing_mandatory,Critical,id_number
+C04779,missing_mandatory,Critical,country
+C04782,missing_mandatory,Critical,dob
+C04784,missing_mandatory,Critical,dob
+C04826,missing_mandatory,Critical,id_number
+C04833,missing_mandatory,Critical,id_number
+C04873,missing_mandatory,Critical,address
+C04880,missing_mandatory,Critical,address
+C04924,missing_mandatory,Critical,dob
+C04927,missing_mandatory,Critical,dob
+C04928,missing_mandatory,Critical,id_number
+C04975,missing_mandatory,Critical,country
+C04986,missing_mandatory,Critical,id_number
+C04991,missing_mandatory,Critical,address
+C05017,missing_mandatory,Critical,full_name
+C05038,missing_mandatory,Critical,id_number
+C05001,duplicate_record,Critical,
+C05002,duplicate_record,Critical,
+C05003,duplicate_record,Critical,
+C05004,duplicate_record,Critical,
+C05005,duplicate_record,Critical,
+C05006,duplicate_record,Critical,
+C05007,duplicate_record,Critical,
+C05008,duplicate_record,Critical,
+C05009,duplicate_record,Critical,
+C05010,duplicate_record,Critical,
+C05011,duplicate_record,Critical,
+C05012,duplicate_record,Critical,
+C05013,duplicate_record,Critical,
+C05014,duplicate_record,Critical,
+C05015,duplicate_record,Critical,
+C05016,duplicate_record,Critical,
+C05017,duplicate_record,Critical,
+C05018,duplicate_record,Critical,
+C05019,duplicate_record,Critical,
+C05020,duplicate_record,Critical,
+C05021,duplicate_record,Critical,
+C05022,duplicate_record,Critical,
+C05023,duplicate_record,Critical,
+C05024,duplicate_record,Critical,
+C05025,duplicate_record,Critical,
+C05026,duplicate_record,Critical,
+C05027,duplicate_record,Critical,
+C05028,duplicate_record,Critical,
+C05029,duplicate_record,Critical,
+C05030,duplicate_record,Critical,
+C05031,duplicate_record,Critical,
+C05032,duplicate_record,Critical,
+C05033,duplicate_record,Critical,
+C05034,duplicate_record,Critical,
+C05035,duplicate_record,Critical,
+C05036,duplicate_record,Critical,
+C05037,duplicate_record,Critical,
+C05039,duplicate_record,Critical,
+C05040,duplicate_record,Critical,
+C05041,duplicate_record,Critical,
+C05042,duplicate_record,Critical,
+C05043,duplicate_record,Critical,
+C05044,duplicate_record,Critical,
+C05045,duplicate_record,Critical,
+C05046,duplicate_record,Critical,
+C05047,duplicate_record,Critical,
+C05048,duplicate_record,Critical,
+C05049,duplicate_record,Critical,
+C05050,duplicate_record,Critical,
+C05051,duplicate_record,Critical,
+C05052,duplicate_record,Critical,
+C05053,duplicate_record,Critical,
+C05054,duplicate_record,Critical,
+C05055,duplicate_record,Critical,
+C05056,duplicate_record,Critical,
+C05057,duplicate_record,Critical,
+C05058,duplicate_record,Critical,
+C05059,duplicate_record,Critical,
+C05060,duplicate_record,Critical,
+C00309,invalid_id_format,Critical,
+C00383,invalid_id_format,Critical,
+C00403,invalid_id_format,Critical,
+C00440,invalid_id_format,Critical,
+C00469,invalid_id_format,Critical,
+C00631,invalid_id_format,Critical,
+C00646,invalid_id_format,Critical,
+C00704,invalid_id_format,Critical,
+C00720,invalid_id_format,Critical,
+C00817,invalid_id_format,Critical,
+C00914,invalid_id_format,Critical,
+C01023,invalid_id_format,Critical,
+C01030,invalid_id_format,Critical,
+C01159,invalid_id_format,Critical,
+C01172,invalid_id_format,Critical,
+C01207,invalid_id_format,Critical,
+C01279,invalid_id_format,Critical,
+C01296,invalid_id_format,Critical,
+C01299,invalid_id_format,Critical,
+C01379,invalid_id_format,Critical,
+C01418,invalid_id_format,Critical,
+C01426,invalid_id_format,Critical,
+C01536,invalid_id_format,Critical,
+C01642,invalid_id_format,Critical,
+C01778,invalid_id_format,Critical,
+C01805,invalid_id_format,Critical,
+C01830,invalid_id_format,Critical,
+C01836,invalid_id_format,Critical,
+C01952,invalid_id_format,Critical,
+C02253,invalid_id_format,Critical,
+C02327,invalid_id_format,Critical,
+C02350,invalid_id_format,Critical,
+C02378,invalid_id_format,Critical,
+C02464,invalid_id_format,Critical,
+C02577,invalid_id_format,Critical,
+C02662,invalid_id_format,Critical,
+C02697,invalid_id_format,Critical,
+C02952,invalid_id_format,Critical,
+C03007,invalid_id_format,Critical,
+C03012,invalid_id_format,Critical,
+C03027,invalid_id_format,Critical,
+C03148,invalid_id_format,Critical,
+C03288,invalid_id_format,Critical,
+C03497,invalid_id_format,Critical,
+C03504,invalid_id_format,Critical,
+C03540,invalid_id_format,Critical,
+C03615,invalid_id_format,Critical,
+C03663,invalid_id_format,Critical,
+C03689,invalid_id_format,Critical,
+C03727,invalid_id_format,Critical,
+C03782,invalid_id_format,Critical,
+C03805,invalid_id_format,Critical,
+C03826,invalid_id_format,Critical,
+C03938,invalid_id_format,Critical,
+C03979,invalid_id_format,Critical,
+C04003,invalid_id_format,Critical,
+C04085,invalid_id_format,Critical,
+C04177,invalid_id_format,Critical,
+C04217,invalid_id_format,Critical,
+C04231,invalid_id_format,Critical,
+C04240,invalid_id_format,Critical,
+C04296,invalid_id_format,Critical,
+C04351,invalid_id_format,Critical,
+C04373,invalid_id_format,Critical,
+C04374,invalid_id_format,Critical,
+C04399,invalid_id_format,Critical,
+C04442,invalid_id_format,Critical,
+C04563,invalid_id_format,Critical,
+C04592,invalid_id_format,Critical,
+C04666,invalid_id_format,Critical,
+C04706,invalid_id_format,Critical,
+C04760,invalid_id_format,Critical,
+C04869,invalid_id_format,Critical,
+C04892,invalid_id_format,Critical,
+C04939,invalid_id_format,Critical,
+C05025,invalid_id_format,Critical,
+C05033,invalid_id_format,Critical,
+C00012,invalid_dob,Critical,
+C00072,invalid_dob,Critical,
+C00181,invalid_dob,Critical,
+C00271,invalid_dob,Critical,
+C00346,invalid_dob,Critical,
+C00401,invalid_dob,Critical,
+C00698,invalid_dob,Critical,
+C00716,invalid_dob,Critical,
+C00814,invalid_dob,Critical,
+C00997,invalid_dob,Critical,
+C01118,invalid_dob,Critical,
+C01210,invalid_dob,Critical,
+C01336,invalid_dob,Critical,
+C01371,invalid_dob,Critical,
+C01659,invalid_dob,Critical,
+C01662,invalid_dob,Critical,
+C01869,invalid_dob,Critical,
+C01901,invalid_dob,Critical,
+C01915,invalid_dob,Critical,
+C01947,invalid_dob,Critical,
+C01984,invalid_dob,Critical,
+C02046,invalid_dob,Critical,
+C02069,invalid_dob,Critical,
+C02071,invalid_dob,Critical,
+C02118,invalid_dob,Critical,
+C02209,invalid_dob,Critical,
+C02227,invalid_dob,Critical,
+C02256,invalid_dob,Critical,
+C02335,invalid_dob,Critical,
+C02372,invalid_dob,Critical,
+C02404,invalid_dob,Critical,
+C02456,invalid_dob,Critical,
+C02486,invalid_dob,Critical,
+C02493,invalid_dob,Critical,
+C02564,invalid_dob,Critical,
+C02784,invalid_dob,Critical,
+C02796,invalid_dob,Critical,
+C02833,invalid_dob,Critical,
+C03011,invalid_dob,Critical,
+C03083,invalid_dob,Critical,
+C03123,invalid_dob,Critical,
+C03211,invalid_dob,Critical,
+C03216,invalid_dob,Critical,
+C03245,invalid_dob,Critical,
+C03279,invalid_dob,Critical,
+C03400,invalid_dob,Critical,
+C03459,invalid_dob,Critical,
+C03576,invalid_dob,Critical,
+C03583,invalid_dob,Critical,
+C03919,invalid_dob,Critical,
+C03921,invalid_dob,Critical,
+C03964,invalid_dob,Critical,
+C04064,invalid_dob,Critical,
+C04170,invalid_dob,Critical,
+C04267,invalid_dob,Critical,
+C04327,invalid_dob,Critical,
+C04426,invalid_dob,Critical,
+C04461,invalid_dob,Critical,
+C04801,invalid_dob,Critical,
+C04947,invalid_dob,Critical,
+C05022,invalid_dob,Critical,
+C05046,invalid_dob,Critical,
+C05048,invalid_dob,Critical,
+C05060,invalid_dob,Critical,
+C00077,expired_id,High,
+C00082,expired_id,High,
+C00173,expired_id,High,
+C00182,expired_id,High,
+C00202,expired_id,High,
+C00226,expired_id,High,
+C00271,expired_id,High,
+C00274,expired_id,High,
+C00279,expired_id,High,
+C00314,expired_id,High,
+C00349,expired_id,High,
+C00350,expired_id,High,
+C00441,expired_id,High,
+C00453,expired_id,High,
+C00499,expired_id,High,
+C00505,expired_id,High,
+C00519,expired_id,High,
+C00549,expired_id,High,
+C00589,expired_id,High,
+C00606,expired_id,High,
+C00623,expired_id,High,
+C00645,expired_id,High,
+C00688,expired_id,High,
+C00692,expired_id,High,
+C00846,expired_id,High,
+C00853,expired_id,High,
+C00871,expired_id,High,
+C00872,expired_id,High,
+C00874,expired_id,High,
+C00875,expired_id,High,
+C00919,expired_id,High,
+C00941,expired_id,High,
+C00948,expired_id,High,
+C00987,expired_id,High,
+C01000,expired_id,High,
+C01001,expired_id,High,
+C01029,expired_id,High,
+C01030,expired_id,High,
+C01041,expired_id,High,
+C01046,expired_id,High,
+C01051,expired_id,High,
+C01062,expired_id,High,
+C01081,expired_id,High,
+C01122,expired_id,High,
+C01124,expired_id,High,
+C01146,expired_id,High,
+C01152,expired_id,High,
+C01157,expired_id,High,
+C01230,expired_id,High,
+C01235,expired_id,High,
+C01248,expired_id,High,
+C01267,expired_id,High,
+C01314,expired_id,High,
+C01332,expired_id,High,
+C01401,expired_id,High,
+C01459,expired_id,High,
+C01467,expired_id,High,
+C01480,expired_id,High,
+C01481,expired_id,High,
+C01507,expired_id,High,
+C01520,expired_id,High,
+C01522,expired_id,High,
+C01528,expired_id,High,
+C01564,expired_id,High,
+C01565,expired_id,High,
+C01570,expired_id,High,
+C01592,expired_id,High,
+C01596,expired_id,High,
+C01632,expired_id,High,
+C01640,expired_id,High,
+C01650,expired_id,High,
+C01652,expired_id,High,
+C01656,expired_id,High,
+C01658,expired_id,High,
+C01694,expired_id,High,
+C01698,expired_id,High,
+C01705,expired_id,High,
+C01740,expired_id,High,
+C01755,expired_id,High,
+C01782,expired_id,High,
+C01925,expired_id,High,
+C02075,expired_id,High,
+C02082,expired_id,High,
+C02089,expired_id,High,
+C02092,expired_id,High,
+C02099,expired_id,High,
+C02130,expired_id,High,
+C02148,expired_id,High,
+C02154,expired_id,High,
+C02177,expired_id,High,
+C02259,expired_id,High,
+C02266,expired_id,High,
+C02289,expired_id,High,
+C02295,expired_id,High,
+C02346,expired_id,High,
+C02360,expired_id,High,
+C02385,expired_id,High,
+C02386,expired_id,High,
+C02395,expired_id,High,
+C02396,expired_id,High,
+C02419,expired_id,High,
+C02472,expired_id,High,
+C02489,expired_id,High,
+C02540,expired_id,High,
+C02560,expired_id,High,
+C02565,expired_id,High,
+C02585,expired_id,High,
+C02600,expired_id,High,
+C02603,expired_id,High,
+C02604,expired_id,High,
+C02642,expired_id,High,
+C02657,expired_id,High,
+C02728,expired_id,High,
+C02762,expired_id,High,
+C02780,expired_id,High,
+C02836,expired_id,High,
+C02840,expired_id,High,
+C02850,expired_id,High,
+C02851,expired_id,High,
+C02870,expired_id,High,
+C02890,expired_id,High,
+C02917,expired_id,High,
+C02984,expired_id,High,
+C03076,expired_id,High,
+C03113,expired_id,High,
+C03120,expired_id,High,
+C03129,expired_id,High,
+C03141,expired_id,High,
+C03195,expired_id,High,
+C03204,expired_id,High,
+C03220,expired_id,High,
+C03249,expired_id,High,
+C03250,expired_id,High,
+C03266,expired_id,High,
+C03279,expired_id,High,
+C03320,expired_id,High,
+C03323,expired_id,High,
+C03342,expired_id,High,
+C03343,expired_id,High,
+C03366,expired_id,High,
+C03417,expired_id,High,
+C03421,expired_id,High,
+C03431,expired_id,High,
+C03433,expired_id,High,
+C03537,expired_id,High,
+C03587,expired_id,High,
+C03604,expired_id,High,
+C03675,expired_id,High,
+C03690,expired_id,High,
+C03731,expired_id,High,
+C03776,expired_id,High,
+C03804,expired_id,High,
+C03826,expired_id,High,
+C03833,expired_id,High,
+C03873,expired_id,High,
+C03898,expired_id,High,
+C03911,expired_id,High,
+C03915,expired_id,High,
+C03924,expired_id,High,
+C03973,expired_id,High,
+C04022,expired_id,High,
+C04045,expired_id,High,
+C04052,expired_id,High,
+C04120,expired_id,High,
+C04141,expired_id,High,
+C04171,expired_id,High,
+C04183,expired_id,High,
+C04238,expired_id,High,
+C04291,expired_id,High,
+C04338,expired_id,High,
+C04342,expired_id,High,
+C04344,expired_id,High,
+C04364,expired_id,High,
+C04375,expired_id,High,
+C04427,expired_id,High,
+C04485,expired_id,High,
+C04488,expired_id,High,
+C04509,expired_id,High,
+C04551,expired_id,High,
+C04576,expired_id,High,
+C04578,expired_id,High,
+C04602,expired_id,High,
+C04606,expired_id,High,
+C04607,expired_id,High,
+C04627,expired_id,High,
+C04644,expired_id,High,
+C04696,expired_id,High,
+C04712,expired_id,High,
+C04748,expired_id,High,
+C04793,expired_id,High,
+C04819,expired_id,High,
+C04829,expired_id,High,
+C04831,expired_id,High,
+C04851,expired_id,High,
+C04858,expired_id,High,
+C04861,expired_id,High,
+C04967,expired_id,High,
+C04968,expired_id,High,
+C04981,expired_id,High,
+C04985,expired_id,High,
+C05015,expired_id,High,
+C05017,expired_id,High,
+C00207,invalid_country,High,
+C00330,invalid_country,High,
+C00391,invalid_country,High,
+C00473,invalid_country,High,
+C00563,invalid_country,High,
+C00642,invalid_country,High,
+C00644,invalid_country,High,
+C00702,invalid_country,High,
+C00705,invalid_country,High,
+C01084,invalid_country,High,
+C01493,invalid_country,High,
+C01633,invalid_country,High,
+C01682,invalid_country,High,
+C01801,invalid_country,High,
+C01975,invalid_country,High,
+C02039,invalid_country,High,
+C02126,invalid_country,High,
+C02135,invalid_country,High,
+C02374,invalid_country,High,
+C02448,invalid_country,High,
+C02453,invalid_country,High,
+C02480,invalid_country,High,
+C02491,invalid_country,High,
+C02629,invalid_country,High,
+C02784,invalid_country,High,
+C02924,invalid_country,High,
+C02992,invalid_country,High,
+C03150,invalid_country,High,
+C03183,invalid_country,High,
+C03356,invalid_country,High,
+C03697,invalid_country,High,
+C03933,invalid_country,High,
+C03945,invalid_country,High,
+C04112,invalid_country,High,
+C04251,invalid_country,High,
+C04487,invalid_country,High,
+C04743,invalid_country,High,
+C04817,invalid_country,High,
+C00203,invalid_email,Low,
+C00254,invalid_email,Low,
+C00357,invalid_email,Low,
+C00377,invalid_email,Low,
+C00403,invalid_email,Low,
+C00421,invalid_email,Low,
+C00425,invalid_email,Low,
+C00452,invalid_email,Low,
+C00491,invalid_email,Low,
+C00502,invalid_email,Low,
+C00581,invalid_email,Low,
+C00647,invalid_email,Low,
+C00651,invalid_email,Low,
+C00724,invalid_email,Low,
+C00789,invalid_email,Low,
+C00793,invalid_email,Low,
+C00981,invalid_email,Low,
+C01077,invalid_email,Low,
+C01081,invalid_email,Low,
+C01146,invalid_email,Low,
+C01226,invalid_email,Low,
+C01257,invalid_email,Low,
+C01259,invalid_email,Low,
+C01273,invalid_email,Low,
+C01376,invalid_email,Low,
+C01440,invalid_email,Low,
+C01644,invalid_email,Low,
+C01647,invalid_email,Low,
+C01729,invalid_email,Low,
+C01763,invalid_email,Low,
+C01964,invalid_email,Low,
+C01997,invalid_email,Low,
+C02009,invalid_email,Low,
+C02019,invalid_email,Low,
+C02056,invalid_email,Low,
+C02069,invalid_email,Low,
+C02238,invalid_email,Low,
+C02241,invalid_email,Low,
+C02314,invalid_email,Low,
+C02371,invalid_email,Low,
+C02374,invalid_email,Low,
+C02410,invalid_email,Low,
+C02429,invalid_email,Low,
+C02436,invalid_email,Low,
+C02461,invalid_email,Low,
+C02466,invalid_email,Low,
+C02560,invalid_email,Low,
+C02580,invalid_email,Low,
+C02663,invalid_email,Low,
+C02668,invalid_email,Low,
+C02676,invalid_email,Low,
+C02793,invalid_email,Low,
+C02821,invalid_email,Low,
+C02828,invalid_email,Low,
+C02933,invalid_email,Low,
+C02983,invalid_email,Low,
+C03000,invalid_email,Low,
+C03030,invalid_email,Low,
+C03059,invalid_email,Low,
+C03105,invalid_email,Low,
+C03135,invalid_email,Low,
+C03142,invalid_email,Low,
+C03272,invalid_email,Low,
+C03329,invalid_email,Low,
+C03445,invalid_email,Low,
+C03518,invalid_email,Low,
+C03521,invalid_email,Low,
+C03545,invalid_email,Low,
+C03591,invalid_email,Low,
+C03646,invalid_email,Low,
+C03698,invalid_email,Low,
+C03713,invalid_email,Low,
+C03728,invalid_email,Low,
+C03729,invalid_email,Low,
+C03735,invalid_email,Low,
+C03757,invalid_email,Low,
+C03761,invalid_email,Low,
+C03772,invalid_email,Low,
+C03791,invalid_email,Low,
+C03793,invalid_email,Low,
+C03825,invalid_email,Low,
+C03840,invalid_email,Low,
+C03906,invalid_email,Low,
+C03916,invalid_email,Low,
+C03951,invalid_email,Low,
+C04237,invalid_email,Low,
+C04246,invalid_email,Low,
+C04252,invalid_email,Low,
+C04396,invalid_email,Low,
+C04536,invalid_email,Low,
+C04540,invalid_email,Low,
+C04542,invalid_email,Low,
+C04559,invalid_email,Low,
+C04605,invalid_email,Low,
+C04674,invalid_email,Low,
+C04730,invalid_email,Low,
+C04777,invalid_email,Low,
+C04908,invalid_email,Low,
+C04984,invalid_email,Low,
+C04985,invalid_email,Low,
+C00008,high_risk_country,Review (EDD),
+C00040,high_risk_country,Review (EDD),
+C00062,high_risk_country,Review (EDD),
+C00088,high_risk_country,Review (EDD),
+C00127,high_risk_country,Review (EDD),
+C00170,high_risk_country,Review (EDD),
+C00220,high_risk_country,Review (EDD),
+C00240,high_risk_country,Review (EDD),
+C00291,high_risk_country,Review (EDD),
+C00326,high_risk_country,Review (EDD),
+C00363,high_risk_country,Review (EDD),
+C00520,high_risk_country,Review (EDD),
+C00572,high_risk_country,Review (EDD),
+C00576,high_risk_country,Review (EDD),
+C00608,high_risk_country,Review (EDD),
+C00632,high_risk_country,Review (EDD),
+C00851,high_risk_country,Review (EDD),
+C00883,high_risk_country,Review (EDD),
+C00988,high_risk_country,Review (EDD),
+C00998,high_risk_country,Review (EDD),
+C01057,high_risk_country,Review (EDD),
+C01138,high_risk_country,Review (EDD),
+C01148,high_risk_country,Review (EDD),
+C01154,high_risk_country,Review (EDD),
+C01187,high_risk_country,Review (EDD),
+C01195,high_risk_country,Review (EDD),
+C01217,high_risk_country,Review (EDD),
+C01317,high_risk_country,Review (EDD),
+C01354,high_risk_country,Review (EDD),
+C01401,high_risk_country,Review (EDD),
+C01485,high_risk_country,Review (EDD),
+C01508,high_risk_country,Review (EDD),
+C01544,high_risk_country,Review (EDD),
+C01555,high_risk_country,Review (EDD),
+C01774,high_risk_country,Review (EDD),
+C01885,high_risk_country,Review (EDD),
+C01918,high_risk_country,Review (EDD),
+C01940,high_risk_country,Review (EDD),
+C01978,high_risk_country,Review (EDD),
+C02007,high_risk_country,Review (EDD),
+C02032,high_risk_country,Review (EDD),
+C02080,high_risk_country,Review (EDD),
+C02117,high_risk_country,Review (EDD),
+C02170,high_risk_country,Review (EDD),
+C02251,high_risk_country,Review (EDD),
+C02255,high_risk_country,Review (EDD),
+C02311,high_risk_country,Review (EDD),
+C02323,high_risk_country,Review (EDD),
+C02327,high_risk_country,Review (EDD),
+C02328,high_risk_country,Review (EDD),
+C02341,high_risk_country,Review (EDD),
+C02392,high_risk_country,Review (EDD),
+C02395,high_risk_country,Review (EDD),
+C02476,high_risk_country,Review (EDD),
+C02601,high_risk_country,Review (EDD),
+C02638,high_risk_country,Review (EDD),
+C02646,high_risk_country,Review (EDD),
+C03098,high_risk_country,Review (EDD),
+C03168,high_risk_country,Review (EDD),
+C03173,high_risk_country,Review (EDD),
+C03274,high_risk_country,Review (EDD),
+C03279,high_risk_country,Review (EDD),
+C03285,high_risk_country,Review (EDD),
+C03288,high_risk_country,Review (EDD),
+C03318,high_risk_country,Review (EDD),
+C03329,high_risk_country,Review (EDD),
+C03331,high_risk_country,Review (EDD),
+C03381,high_risk_country,Review (EDD),
+C03392,high_risk_country,Review (EDD),
+C03418,high_risk_country,Review (EDD),
+C03427,high_risk_country,Review (EDD),
+C03486,high_risk_country,Review (EDD),
+C03514,high_risk_country,Review (EDD),
+C03554,high_risk_country,Review (EDD),
+C03702,high_risk_country,Review (EDD),
+C03713,high_risk_country,Review (EDD),
+C03729,high_risk_country,Review (EDD),
+C03791,high_risk_country,Review (EDD),
+C03806,high_risk_country,Review (EDD),
+C03873,high_risk_country,Review (EDD),
+C03936,high_risk_country,Review (EDD),
+C04082,high_risk_country,Review (EDD),
+C04107,high_risk_country,Review (EDD),
+C04117,high_risk_country,Review (EDD),
+C04122,high_risk_country,Review (EDD),
+C04170,high_risk_country,Review (EDD),
+C04270,high_risk_country,Review (EDD),
+C04298,high_risk_country,Review (EDD),
+C04376,high_risk_country,Review (EDD),
+C04422,high_risk_country,Review (EDD),
+C04440,high_risk_country,Review (EDD),
+C04446,high_risk_country,Review (EDD),
+C04507,high_risk_country,Review (EDD),
+C04595,high_risk_country,Review (EDD),
+C04610,high_risk_country,Review (EDD),
+C04624,high_risk_country,Review (EDD),
+C04658,high_risk_country,Review (EDD),
+C04846,high_risk_country,Review (EDD),
+C04942,high_risk_country,Review (EDD),
+C04973,high_risk_country,Review (EDD),

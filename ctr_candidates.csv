@@ -1,0 +1,170 @@
+client_id,txn_date,txn_type,total_cash,txn_count,client_data_status
+C00011,2025-03-05,Cash Deposit,13946.65,1,Incomplete/invalid - fix first
+C00020,2025-10-24,Cash Deposit,56930.99,1,Ready to file
+C00065,2025-07-27,Cash Withdrawal,16873.84,1,Ready to file
+C00074,2025-11-13,Cash Deposit,11500.0,2,Ready to file
+C00078,2025-11-03,Cash Deposit,32248.55,1,Ready to file
+C00086,2025-10-01,Cash Deposit,14045.27,1,Ready to file
+C00128,2025-10-11,Cash Deposit,10336.66,1,Incomplete/invalid - fix first
+C00133,2025-05-29,Cash Deposit,20197.46,1,Ready to file
+C00178,2025-10-07,Cash Deposit,11167.59,1,Ready to file
+C00181,2025-02-04,Cash Deposit,31513.24,1,Incomplete/invalid - fix first
+C00253,2025-03-12,Cash Withdrawal,11969.96,1,Ready to file
+C00269,2025-03-04,Cash Withdrawal,13299.32,1,Ready to file
+C00280,2025-05-06,Cash Deposit,41041.62,1,Ready to file
+C00303,2025-08-13,Cash Deposit,15468.05,1,Ready to file
+C00322,2025-08-02,Cash Deposit,12831.98,1,Ready to file
+C00371,2025-02-09,Cash Withdrawal,43392.04,1,Ready to file
+C00419,2025-07-15,Cash Withdrawal,14521.23,1,Ready to file
+C00470,2025-01-15,Cash Deposit,11500.0,2,Ready to file
+C00500,2025-07-27,Cash Deposit,52187.74,1,Ready to file
+C00681,2025-01-23,Cash Deposit,12989.15,1,Ready to file
+C00713,2025-11-18,Cash Deposit,12831.48,1,Ready to file
+C00807,2025-06-13,Cash Deposit,42253.14,1,Ready to file
+C00855,2025-12-17,Cash Deposit,23848.08,1,Ready to file
+C00872,2025-10-17,Cash Withdrawal,10435.3,1,Incomplete/invalid - fix first
+C00906,2025-04-09,Cash Deposit,46607.14,1,Ready to file
+C00946,2025-02-22,Cash Deposit,20468.96,1,Ready to file
+C00971,2025-10-19,Cash Deposit,11500.0,2,Ready to file
+C00978,2025-09-13,Cash Deposit,11500.0,2,Ready to file
+C00996,2025-02-23,Cash Deposit,10419.35,1,Ready to file
+C01072,2025-06-17,Cash Deposit,12612.04,1,Ready to file
+C01086,2025-06-27,Cash Deposit,56448.63,1,Ready to file
+C01090,2025-11-17,Cash Withdrawal,11150.89,1,Incomplete/invalid - fix first
+C01092,2025-01-24,Cash Deposit,11500.0,2,Ready to file
+C01106,2025-09-27,Cash Deposit,11500.0,2,Ready to file
+C01165,2025-09-01,Cash Deposit,52704.6,1,Ready to file
+C01179,2025-06-16,Cash Deposit,13271.83,1,Ready to file
+C01235,2025-07-23,Cash Deposit,14210.03,1,Incomplete/invalid - fix first
+C01236,2025-11-06,Cash Deposit,26363.7,1,Ready to file
+C01251,2025-05-14,Cash Deposit,58832.75,1,Ready to file
+C01267,2025-01-28,Cash Deposit,16542.06,1,Incomplete/invalid - fix first
+C01269,2025-07-23,Cash Deposit,24458.1,1,Ready to file
+C01318,2025-08-05,Cash Deposit,11117.91,1,Incomplete/invalid - fix first
+C01318,2025-10-16,Cash Deposit,17936.87,1,Incomplete/invalid - fix first
+C01335,2025-03-26,Cash Deposit,53997.68,1,Ready to file
+C01367,2025-12-11,Cash Deposit,19765.86,1,Ready to file
+C01395,2025-05-12,Cash Deposit,20809.25,1,Ready to file
+C01445,2025-05-31,Cash Deposit,13517.56,1,Ready to file
+C01449,2025-11-05,Cash Deposit,20474.12,1,Ready to file
+C01458,2025-05-29,Cash Deposit,11151.52,1,Ready to file
+C01481,2025-03-07,Cash Deposit,11500.0,2,Incomplete/invalid - fix first
+C01508,2025-11-21,Cash Deposit,16474.1,1,Ready to file
+C01557,2025-08-30,Cash Withdrawal,11592.5,1,Ready to file
+C01565,2025-05-14,Cash Deposit,11500.0,2,Incomplete/invalid - fix first
+C01584,2025-07-12,Cash Deposit,11500.0,2,Ready to file
+C01605,2025-05-22,Cash Deposit,16660.18,1,Ready to file
+C01629,2025-12-06,Cash Deposit,25451.6,1,Ready to file
+C01680,2025-06-28,Cash Deposit,11500.0,2,Ready to file
+C01785,2025-06-16,Cash Deposit,11500.0,2,Ready to file
+C01813,2025-06-09,Cash Deposit,23174.54,1,Ready to file
+C01824,2025-02-25,Cash Deposit,11042.95,2,Ready to file
+C01826,2025-11-27,Cash Deposit,35639.62,1,Ready to file
+C01858,2025-09-29,Cash Deposit,11500.0,2,Ready to file
+C01862,2025-05-08,Cash Deposit,10965.81,1,Ready to file
+C01901,2025-03-08,Cash Deposit,11042.05,1,Incomplete/invalid - fix first
+C01935,2025-12-02,Cash Deposit,20908.25,1,Ready to file
+C01989,2025-12-27,Cash Deposit,11500.0,2,Incomplete/invalid - fix first
+C02042,2025-08-04,Cash Withdrawal,10535.22,1,Ready to file
+C02045,2025-03-20,Cash Withdrawal,39835.82,1,Ready to file
+C02063,2025-02-26,Cash Withdrawal,18223.12,1,Ready to file
+C02083,2025-06-27,Cash Deposit,11427.41,1,Ready to file
+C02095,2025-09-13,Cash Deposit,11696.94,1,Ready to file
+C02127,2025-11-30,Cash Deposit,10589.55,1,Ready to file
+C02244,2025-11-05,Cash Deposit,47302.17,1,Ready to file
+C02295,2025-03-17,Cash Deposit,27303.71,1,Incomplete/invalid - fix first
+C02299,2025-12-27,Cash Deposit,15338.06,1,Ready to file
+C02310,2025-10-31,Cash Deposit,11500.0,2,Ready to file
+C02376,2025-03-17,Cash Withdrawal,14142.78,1,Incomplete/invalid - fix first
+C02426,2025-11-27,Cash Deposit,38044.45,1,Ready to file
+C02452,2025-06-20,Cash Deposit,13771.18,1,Ready to file
+C02452,2025-12-26,Cash Deposit,11500.0,2,Ready to file
+C02579,2025-06-09,Cash Deposit,11500.0,2,Ready to file
+C02580,2025-09-08,Cash Deposit,29565.77,1,Ready to file
+C02601,2025-09-04,Cash Withdrawal,12052.91,1,Ready to file
+C02622,2025-03-24,Cash Deposit,10634.31,1,Incomplete/invalid - fix first
+C02622,2025-08-01,Cash Deposit,20244.08,1,Incomplete/invalid - fix first
+C02626,2025-11-11,Cash Deposit,26314.4,1,Ready to file
+C02648,2025-01-16,Cash Deposit,56962.29,1,Ready to file
+C02654,2025-04-30,Cash Withdrawal,16754.02,1,Ready to file
+C02655,2025-10-06,Cash Deposit,11798.24,1,Ready to file
+C02707,2025-07-03,Cash Withdrawal,19279.33,1,Ready to file
+C02728,2025-04-30,Cash Deposit,11500.0,2,Incomplete/invalid - fix first
+C02738,2025-01-24,Cash Deposit,16179.53,1,Ready to file
+C02747,2025-12-30,Cash Deposit,10133.37,1,Ready to file
+C02769,2025-09-02,Cash Deposit,10366.35,1,Ready to file
+C02796,2025-07-22,Cash Deposit,50438.18,1,Incomplete/invalid - fix first
+C02829,2025-01-11,Cash Withdrawal,13578.2,1,Ready to file
+C02830,2025-04-12,Cash Withdrawal,10414.34,1,Ready to file
+C02850,2025-11-06,Cash Deposit,14431.44,1,Incomplete/invalid - fix first
+C02884,2025-01-16,Cash Deposit,37666.43,1,Ready to file
+C02921,2025-03-03,Cash Deposit,32566.71,1,Ready to file
+C02974,2025-10-13,Cash Deposit,11500.0,2,Ready to file
+C03012,2025-07-21,Cash Deposit,37745.27,1,Incomplete/invalid - fix first
+C03095,2025-02-12,Cash Deposit,10245.49,1,Ready to file
+C03128,2025-01-03,Cash Deposit,10952.28,1,Ready to file
+C03147,2025-10-10,Cash Deposit,15319.23,1,Ready to file
+C03150,2025-05-01,Cash Withdrawal,10436.72,1,Incomplete/invalid - fix first
+C03184,2025-05-16,Cash Deposit,10296.26,1,Ready to file
+C03195,2025-07-08,Cash Deposit,44918.06,1,Incomplete/invalid - fix first
+C03204,2025-04-16,Cash Withdrawal,14574.46,1,Incomplete/invalid - fix first
+C03241,2025-09-28,Cash Deposit,13518.54,1,Ready to file
+C03266,2025-02-03,Cash Deposit,14095.42,1,Incomplete/invalid - fix first
+C03397,2025-12-20,Cash Deposit,11500.0,2,Ready to file
+C03424,2025-01-20,Cash Deposit,11500.0,2,Ready to file
+C03507,2025-08-16,Cash Deposit,10317.11,1,Ready to file
+C03508,2025-04-01,Cash Deposit,11500.0,2,Ready to file
+C03558,2025-12-26,Cash Deposit,11223.4,1,Ready to file
+C03568,2025-05-13,Cash Deposit,12153.21,1,Ready to file
+C03590,2025-07-06,Cash Deposit,23415.4,1,Ready to file
+C03594,2025-06-22,Cash Deposit,18872.63,1,Ready to file
+C03608,2025-09-09,Cash Deposit,12464.65,1,Ready to file
+C03612,2025-05-14,Cash Withdrawal,22017.29,1,Ready to file
+C03633,2025-07-07,Cash Deposit,28851.05,1,Ready to file
+C03672,2025-04-04,Cash Deposit,35601.55,1,Incomplete/invalid - fix first
+C03759,2025-11-14,Cash Deposit,11500.0,2,Ready to file
+C03773,2025-12-17,Cash Deposit,14834.92,1,Ready to file
+C03824,2025-01-17,Cash Deposit,22050.54,1,Incomplete/invalid - fix first
+C03904,2025-05-06,Cash Deposit,14473.58,1,Incomplete/invalid - fix first
+C03949,2025-12-03,Cash Deposit,11076.07,1,Ready to file
+C03979,2025-07-11,Cash Withdrawal,14770.36,1,Incomplete/invalid - fix first
+C03993,2025-08-29,Cash Withdrawal,16251.15,1,Ready to file
+C04023,2025-09-09,Cash Deposit,49360.14,1,Ready to file
+C04072,2025-04-15,Cash Deposit,11500.0,2,Ready to file
+C04085,2025-01-17,Cash Withdrawal,11124.2,1,Incomplete/invalid - fix first
+C04093,2025-08-08,Cash Deposit,36576.25,1,Ready to file
+C04098,2025-03-29,Cash Deposit,11500.0,2,Incomplete/invalid - fix first
+C04105,2025-03-06,Cash Deposit,57785.58,1,Ready to file
+C04112,2025-01-02,Cash Deposit,11447.92,1,Incomplete/invalid - fix first
+C04118,2025-01-17,Cash Deposit,13236.69,1,Ready to file
+C04141,2025-07-10,Cash Deposit,11500.0,2,Incomplete/invalid - fix first
+C04243,2025-05-03,Cash Deposit,25726.53,1,Ready to file
+C04245,2025-04-22,Cash Deposit,37940.52,1,Ready to file
+C04288,2025-08-02,Cash Withdrawal,11675.72,1,Ready to file
+C04309,2025-02-13,Cash Deposit,47198.81,1,Ready to file
+C04314,2025-04-30,Cash Deposit,11221.37,1,Ready to file
+C04317,2025-07-25,Cash Withdrawal,15161.42,1,Ready to file
+C04348,2025-12-07,Cash Deposit,11741.04,1,Ready to file
+C04357,2025-07-02,Cash Withdrawal,13741.28,1,Ready to file
+C04408,2025-07-12,Cash Withdrawal,12243.5,1,Ready to file
+C04431,2025-07-29,Cash Deposit,14493.45,1,Incomplete/invalid - fix first
+C04485,2025-11-13,Cash Deposit,37001.52,1,Incomplete/invalid - fix first
+C04496,2025-01-04,Cash Deposit,11500.0,2,Ready to file
+C04505,2025-03-26,Cash Deposit,11500.0,2,Ready to file
+C04507,2025-02-18,Cash Withdrawal,13928.67,1,Ready to file
+C04507,2025-08-20,Cash Withdrawal,14369.51,1,Ready to file
+C04523,2025-09-07,Cash Deposit,10132.09,1,Ready to file
+C04556,2025-03-03,Cash Deposit,11500.0,2,Ready to file
+C04571,2025-11-19,Cash Withdrawal,10130.1,1,Ready to file
+C04578,2025-05-10,Cash Deposit,11500.0,2,Incomplete/invalid - fix first
+C04593,2025-01-07,Cash Withdrawal,12018.37,1,Incomplete/invalid - fix first
+C04615,2025-10-18,Cash Deposit,11391.17,1,Ready to file
+C04671,2025-09-10,Cash Deposit,11500.0,2,Ready to file
+C04730,2025-06-28,Cash Withdrawal,12547.3,1,Ready to file
+C04789,2025-04-15,Cash Deposit,13636.87,1,Ready to file
+C04791,2025-12-22,Cash Withdrawal,12882.33,1,Ready to file
+C04807,2025-04-19,Cash Deposit,38445.33,1,Ready to file
+C04867,2025-09-30,Cash Deposit,21739.39,1,Ready to file
+C04886,2025-02-15,Cash Withdrawal,15074.38,1,Ready to file
+C04918,2025-08-18,Cash Deposit,10067.58,1,Ready to file
+C04921,2025-03-08,Cash Deposit,39865.77,1,Ready to file
